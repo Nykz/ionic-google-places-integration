@@ -1,0 +1,7 @@
+{
+  "name": "google-places",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
